@@ -1,4 +1,4 @@
-# Engineering-Viability-LLM-WPT
+# Benchmarking the Engineering Reliability of LLM Based Design
 
 **Artifact Repository for the Paper**  
 **“Engineering Viability of LLM‑Based AI Design: A Case Study on High‑Frequency Resonant Wireless Power Transfer Systems”**  
