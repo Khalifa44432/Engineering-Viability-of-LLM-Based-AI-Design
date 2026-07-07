@@ -2,7 +2,7 @@
 
 **Artifact Repository for the Paper**  
 **“Benchmarking the Engineering Reliability of LLM-Based Design for Resonant Wireless Power Transfer Systems”**  
-*Khalifa et al., 2025*
+*Khalifa et al., 2025* https://ieeexplore.ieee.org/abstract/document/11568841
 
 ---
 
