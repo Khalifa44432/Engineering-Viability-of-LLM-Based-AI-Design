@@ -29,7 +29,7 @@ This repository contains the essential resources to understand the **LLM-based w
 ## Citation
 If you use or adapt this material, please cite:
 
-> **Khalifa et al. (2025).** *K. A. Ibrahim, P. C. -K. Luk, Z. Luo, S. Y. Ng and L. Harrison, "Benchmarking the Engineering Reliability of LLM-Based Design for Resonant Wireless Power Transfer Systems," in IEEE Transactions on Industrial Electronics, doi: 10.1109/TIE.2026.3695234. https://ieeexplore.ieee.org/abstract/document/11568841*.
+> **Khalifa et al. (2026).** or *K. A. Ibrahim, P. C. -K. Luk, Z. Luo, S. Y. Ng and L. Harrison, "Benchmarking the Engineering Reliability of LLM-Based Design for Resonant Wireless Power Transfer Systems," in IEEE Transactions on Industrial Electronics, doi: 10.1109/TIE.2026.3695234. https://ieeexplore.ieee.org/abstract/document/11568841*.
 
 ## License
 This repository is released under **Creative Commons Attribution 4.0 (CC BY 4.0)**. Please attribute to *Khalifa et al., 2025*.
